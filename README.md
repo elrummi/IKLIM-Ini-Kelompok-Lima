@@ -4,6 +4,9 @@ Project akhir mata kuliah Grafika Komputer dan Visualisasi (GKV) - Semester 4
 ## Deskripsi
 WebPage ini diperuntukan untuk memvisualisasikan pengaruh hujan terhadap hasil panen padi dibeberapa negara.
 
+## Video Presentasi Kelompok 5
+https://youtu.be/IpSwh7RmUHs
+
 ## Anggota
 
 | Nama | NIM     |
